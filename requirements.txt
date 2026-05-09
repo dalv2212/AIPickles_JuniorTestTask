@@ -39,7 +39,7 @@ packaging==24.1
 pydantic==2.7.4
 pydantic_core==2.18.4
 Pygments==2.18.0
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 python-multipart==0.0.27
 PyYAML==6.0.1
 regex==2024.5.15
